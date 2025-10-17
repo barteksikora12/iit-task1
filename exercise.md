@@ -6,9 +6,9 @@
 
 ---
 
-1) The wrong question: jobs vs. tasks
+## 1) The wrong question: jobs vs. tasks
 
-When people ask “Will AI take our jobs?”, they usually imagine whole occupations disappearing. History (electricity, PCs, the internet) suggests something subtler: technologies automate tasks, which changes job content, productivity, and demand. That’s why economists talk about task-level automation rather than job-level extinction.
+When people ask “Will AI take our jobs?”, they usually imagine whole occupations disappearing. History (electricity, PCs, the internet) suggests something subtler: technologies **automate tasks**, which changes **job content**, **productivity**, and **demand**. That’s why economists talk about task-level automation rather than job-level extinction.
 
 - Automation: AI directly performs parts of the work (e.g., summarizing emails, drafting text, classifying support tickets).  
 - Augmentation: AI helps humans do the work faster or better (e.g., code suggestions, data cleaning assistants).  
@@ -19,14 +19,14 @@ A good rule of thumb:
 | Today’s reality | What changes with AI |
 |---|---|
 | Jobs are bundles of many tasks. | Some tasks get automated; the rest rise in relative importance. |
-| Experience → productivity gains. | AI can compress the experience curve for juniors. |
+| Experience → productivity gains. | AI can **compress the experience curve** for juniors. |
 | Skills decay without practice. | Continuous learning + AI tools becomes part of the job. |
 
-Key idea: Tasks are automated; jobs are redesigned.
+> Key idea: Tasks are automated; jobs are redesigned.
 
 ---
 
-2) What the best recent evidence says
+## 2) What the best recent evidence says
 
 Short‑term productivity effects (micro evidence).  
 - A large field study in a Fortune 500 contact center found that giving agents a generative‑AI assistant increased issues resolved per hour by ~14%, with the biggest gains for the least‑experienced agents—and better customer sentiment.[^nber]  
